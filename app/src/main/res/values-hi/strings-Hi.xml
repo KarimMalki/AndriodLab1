@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">लैब 5-सूची दृश्य</string>
+    <string name="send">भेजना</string>
+    <string name="receive">प्राप्त करें</string>
+    <string name="type_here">यहाँ टाइप करें</string>
+    <string name="delete_message">क्या आप इसे हटाना चाहते हैं?</string>
+    <string name="select_row">चयनित पंक्ति: </string>
+</resources>
